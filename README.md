@@ -10,9 +10,10 @@ I am using an old pc for my server. It has a AMD Ryzen 3 2200G CPU with an integ
 - Nextcloud
 - Immich
 - Adguard
+- Portainer
 
 ## Future Services
-- Kubernetes instead of docker compose.
-- Nginx reverse proxy manager.
-- Tailscale.
+- Kubernetes instead of docker compose
+- Nginx reverse proxy manager
+- Tailscale
 
