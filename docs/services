@@ -1,5 +1,5 @@
-## Portainer
+- Portainer
 Setup username and password, port is 9000.
 
-## Adguard
+- Adguard
 Setup username and password, port is 3000. Set router's DNS to this so every device gets the adblocking.
