@@ -6,3 +6,6 @@ Setup compose file, port is 3000. Set router's DNS to this so every device gets 
 
 - Nextcloud
 Setup db and app, used .env for password. Port is 8080. Tested it on other devices to ensure it works.
+
+- Immich
+Setup server, db and machine learning. Port is 2283.
