@@ -1,4 +1,4 @@
-# Homelab-Project
+# Homelab
 
 Welcome to my personal homelab project. This repo contains my documentation, hardware information, configs etc. 
 The main purpose of this project is to learn about the world of self-hosting and to replace cloud-services.
