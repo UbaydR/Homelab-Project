@@ -1,3 +1,6 @@
-Decided to change storage location of nextcloud and immich to another hard drive. 
+1. Decided to change storage location of nextcloud and immich to another hard drive. 
 Changed the locations of the db/apps in the docker-compose files but it didnt work becuase the hard drive was formatted in NTFS. 
 So i unmounted it and reformatted it into ext4 and it works fine now.
+
+2. Successfully setup Nginx Proxy Manager but i can't get the proxy hosts to work. There's an error with the SSL Certificate. 
+I used DuckDNS to get my domain but i think i may have to switch to Cloudflare and use thier API token to get the SSL Certificate.
