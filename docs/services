@@ -9,3 +9,6 @@ Setup db and app, used .env for password. Port is 8080. Tested it on other devic
 
 - Immich
 Setup server, db and machine learning. Port is 2283.
+
+-Nginx
+Port is 80.
