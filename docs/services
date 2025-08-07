@@ -1,8 +1,8 @@
 - Portainer
-Setup username and password, port is 9000.
+Setup compose file, port is 9000.
 
 - Adguard
-Setup username and password, port is 3000. Set router's DNS to this so every device gets the adblocking.
+Setup compose file, port is 3000. Set router's DNS to this so every device gets the adblocking.
 
 - Nextcloud
 Setup db and app, used .env for password. Port is 8080. Tested it on other devices to ensure it works.
