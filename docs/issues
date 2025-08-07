@@ -1,0 +1,3 @@
+Decided to change storage location of nextcloud and immich to another hard drive. 
+Changed the locations of the db/apps in the docker-compose files but it didnt work becuase the hard drive was formatted in NTFS. 
+So i unmounted it and reformatted it into ext4 and it works fine now.
