@@ -12,8 +12,9 @@ I am using an old pc for my server. It has a AMD Ryzen 3 2200G CPU with an integ
 - Adguard
 - Portainer
 
-## Future Services
-- Kubernetes instead of docker compose
-- Nginx reverse proxy manager
-- Tailscale
+## Future Goals
+- Setup kubernetes instead of docker compose
+- Setup nginx reverse proxy manager
+- Setup tailscale
+- Setup remote access for nextcloud
 
