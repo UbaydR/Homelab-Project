@@ -9,8 +9,8 @@ services:
       - db_data:/var/lib/postgresql/data
     environment:
       POSTGRES_DB: nextcloud
-      POSTGRES_USER: nextcloud
-      POSTGRES_PASSWORD: your-db-password
+      POSTGRES_USER: ubayd
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
 
   app:
     image: nextcloud:latest
@@ -24,7 +24,7 @@ services:
       - nextcloud_data:/var/www/html
     environment:
       POSTGRES_DB: nextcloud
-      POSTGRES_USER: nextcloud
+      POSTGRES_USER: ubayd
       POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
       POSTGRES_HOST: db
 
